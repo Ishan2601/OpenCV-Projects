@@ -1,2 +1,2 @@
 # OpenCV-Projects
-All my OpenCV Projects
+Awesome OpenCV Projects
